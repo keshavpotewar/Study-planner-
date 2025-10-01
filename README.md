@@ -1,16 +1,42 @@
-# React + Vite
+#  Smart Study Planner
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Problem Statement
 
-Currently, two official plugins are available:
+Students often face challenges in organizing study schedules and tracking academic tasks effectively.
+Without a structured plan, it becomes difficult to manage multiple subjects, deadlines, and daily study hours, which leads to stress, missed deadlines, and poor time management.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Solution
 
-## React Compiler
+ Smart Study Planner is a web application built with React + TailwindCSS that helps students:
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Add, edit, and delete study tasks.
 
-## Expanding the ESLint configuration
+- Organize tasks by subject and deadline date.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Manage time with daily study hours allocation.
+
+- Track progress with task completion indicators.
+
+- Visualize overall progress with charts.
+
+- Save tasks locally using LocalStorage (no backend required).
+
+This ensures that students can stay productive, manage their workload effectively, and never miss an important deadline.
+
+## Features
+
+ Task Management – Add tasks with title, subject, and deadline.
+
+- Date-wise Schedule – Automatically groups tasks by deadline into a structured schedule.
+
+- Mark Completed – Track finished tasks with progress indicators.
+
+- Progress Chart – Visual overview of completed vs pending tasks.
+
+- LocalStorage Support – Tasks persist even after refreshing the page.
+
+- Modern UI – Clean, responsive, and professional UI using TailwindCSS.
+
+## Demo Video (YouTube)
+
+[![Smart Study Planner Demo](https://img.youtube.com/vi/6tcC_fP4PbU/0.jpg)](https://youtu.be/6tcC_fP4PbU)    
