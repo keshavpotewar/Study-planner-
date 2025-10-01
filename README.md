@@ -40,3 +40,21 @@ This ensures that students can stay productive, manage their workload effectivel
 ## Demo Video (YouTube)
 
 [![Smart Study Planner Demo](https://img.youtube.com/vi/6tcC_fP4PbU/0.jpg)](https://youtu.be/6tcC_fP4PbU)    
+
+## Installation & Setup 
+1. Clone the repository:
+```
+git clone https://github.com/your-username/smart-study-planner.git
+
+cd smart-study-planner
+```
+2. Install dependencies:
+```
+npm install
+```
+3. Start the development server:
+```
+npm run dev
+
+```
+4. Open your browser and navigate to `http://localhost:5173` to view the application.
