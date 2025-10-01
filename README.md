@@ -1,5 +1,7 @@
 #  Smart Study Planner
 
+**Live Demo:** [https://study-planner-pi.vercel.app/](https://study-planner-pi.vercel.app/)  
+
 ## Problem Statement
 
 Students often face challenges in organizing study schedules and tracking academic tasks effectively.
@@ -58,3 +60,5 @@ npm run dev
 
 ```
 4. Open your browser and navigate to `http://localhost:5173` to view the application.
+
+ 
