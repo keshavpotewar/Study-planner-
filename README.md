@@ -41,12 +41,12 @@ This ensures that students can stay productive, manage their workload effectivel
 
 ## Demo Video (YouTube)
 
-[![Smart Study Planner Demo](https://img.youtube.com/vi/6tcC_fP4PbU/0.jpg)](https://youtu.be/6tcC_fP4PbU)    
+[![Smart Study Planner Demo](https://img.youtube.com/vi/hWhj_IWVNPU/0.jpg)](https://youtu.be/hWhj_IWVNPU)    
 
 ## Installation & Setup 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/smart-study-planner.git
+git clone https://github.com/keshavpotewar/Study-planner-.git
 
 cd smart-study-planner
 ```
